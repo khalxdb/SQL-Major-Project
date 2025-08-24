@@ -5,9 +5,6 @@ A database project for **Chocolate Nation**, a Belgian chocolate museum expandin
 
 [📄 Assignment Details (PDF)](Assignment-Details.pdf)
 
-## Language
-This project is written in **SQL**.
-
 ## Features
 - **ER Diagram**: Crow’s Foot notation showing entities, relationships, and cardinalities.
 - **Relational Schema**: Tables with primary and foreign keys.
