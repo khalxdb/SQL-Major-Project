@@ -36,7 +36,7 @@ A database project for **Chocolate Nation**, a Belgian chocolate museum expandin
 
 ## Getting Started
 1. Open **MySQL Workbench** (or any MySQL client).  
-2. Run the SQL script (`Task3_Template.sql`) to create tables.  
+2. Run the SQL script (`COMP1350 .sql`) to create tables.  
 3. Insert sample records (at least 5 per table).  
 4. Run queries to test and analyze the data.  
 
