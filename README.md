@@ -3,7 +3,7 @@
 
 A database project for **Chocolate Nation**, a Belgian chocolate museum expanding to Australia. This project includes ER diagrams, logical transformation, and SQL implementation for managing chocolates, promotions, customers, reviews, and more.
 
-[📄 Assignment Details (PDF)](AssignmentDetails.pdf)
+[📄 Assignment Details (PDF)](Assignment-Details.pdf)
 ## Features
 - **ER Diagram**: Crow’s Foot notation showing entities, relationships, and cardinalities.
 - **Relational Schema**: Tables with primary and foreign keys.
