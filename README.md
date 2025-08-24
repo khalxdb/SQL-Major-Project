@@ -27,14 +27,12 @@ A database project for **Chocolate Nation**, a Belgian chocolate museum expandin
 ## Project Diagrams
 
 ### ER Diagram
-![ER Diagram](images/er_diagram.png)  
+[📄 View ER Diagram (PDF)](ER.pdf)
 *Crow’s Foot ER diagram showing entities, relationships, and cardinalities.*
 
 ### Logical Transformation
-![Logical Transformation](images/logical_transformation.png)  
-*Step-by-step transformation of the ER diagram into relational tables with primary and foreign keys.*
+[📄 View Logical Transformation (PDF)](Logical.pdf)
 
-> **Note:** Replace `images/er_diagram.png` and `images/logical_transformation.png` with the actual paths of your images in the repository.
 
 ## Getting Started
 1. Open **MySQL Workbench** (or any MySQL client).  
