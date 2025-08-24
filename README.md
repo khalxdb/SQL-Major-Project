@@ -27,8 +27,8 @@ A database project for **Chocolate Nation**, a Belgian chocolate museum expandin
 ## Project Diagrams
 
 ### ER Diagram
-[📄 View ER Diagram (PDF)](ER.pdf)
 *Crow’s Foot ER diagram showing entities, relationships, and cardinalities.*
+[📄 View ER Diagram (PDF)](ER.pdf)
 
 ### Logical Transformation
 [📄 View Logical Transformation (PDF)](Logical.pdf)
